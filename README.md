@@ -11,4 +11,5 @@ Player info such as- which player is X and which player is O
 I will need a grid like game board for the x's and o's to go in
 A win counter for best 3 out of 5
 Game Status for things like whose turn it is and a message for win, lose, and draw.
-Essentially laying the base for my tic-tac-toe game
+Essentially laying the base for my tic-tac-toe game! 
+
