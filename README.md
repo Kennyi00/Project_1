@@ -1,15 +1,11 @@
 # Project_1
-I am going to be doing the tic tac toe game using JavaScript, Html, and CSS
-I'll mainly focus on the js functions to make my game run smoothly. 
-![tic tac toe im going to be workin around]-(https://i.imgur.com/NqAhPQZb.jpg)
+Game Choice- TIC TAC TOE
+Tic-Tac-Toe is a game in which two players seek in alternate turns to complete a row, column, or a diagonal with either three X's or three O's drawn in the spaces of a grid of nine sqaures.
 
+The game essentially starts when you hit the start button but in reality the game starts when you place your first X or O.
+Said player will begin by placing the first X or O to begin the game portion of the project.
 
-I'll start off with some simple HTML and CSS and work my way to the JS using different functions to make the X's and O's move around when said player moves them to the desired location.
+I will mainly be using HTML,CSS, and JAVASCRIPT to make this web-based browser game. I'll mainly be focusing on my JS to improve the functionality of my game so that it will run smoothly with no bumps.
 
-I will need a game title displayed at the top of the page.
-Player info such as- which player is X and which player is O
-I will need a grid like game board for the x's and o's to go in
-A win counter for best 3 out of 5
-Game Status for things like whose turn it is and a message for win, lose, and draw.
-Essentially laying the base for my tic-tac-toe game! 
+Tic-Tac-Toe is a fairly easy game based on your opponent of course but I will be trying to incoroporate and AI system in my game so that the player will have an opponent.
 
