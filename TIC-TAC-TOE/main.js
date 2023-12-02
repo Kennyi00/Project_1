@@ -116,7 +116,7 @@ const isValidAction = (tiles) => {
 
     tiles.forEach( (tiles, index) =>  {
         tiles.addEventListener('click', () => userAction(tiles, index));
-    })
+    });
 
     resetButton.addEventListener('click', resetBoard);
 });
