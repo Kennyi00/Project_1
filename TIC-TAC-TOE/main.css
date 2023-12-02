@@ -5,13 +5,13 @@
 }
 
 .background {
-    background-color: #192024;
+    background-color: #698a9c;
     height: 100vh;
     padding-top: 1px;
 }
 
 .title {
-    color: white;
+    color: rgb(255, 255, 255);
     text-align: center;
     font-size: 40px;
     margin-top: 10%;
@@ -38,7 +38,7 @@
 }
 
 .tile {
-    border: 1px solid white;
+    border: 1px solid rgb(238, 238, 238);
     min-width: 100px;
     min-height: 100px;
     display: flex;
@@ -49,11 +49,11 @@
 }
 
 .playerX {
-    color: #09C372;
+    color: #38a5ff;
 }
 
 .playerO {
-    color: #498AFB;
+    color: #ffffff;
 }
 
 .controls {
@@ -65,7 +65,7 @@
 }
 
 #reset {
-    background-color: #FF3860;
+    background-color: #38a5ff;
     color: white;
     padding: 8px;
     border-radius: 8px;
