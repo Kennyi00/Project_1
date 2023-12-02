@@ -8,4 +8,3 @@ Said player will begin by placing the first X or O to begin the game portion of 
 I will mainly be using HTML,CSS, and JAVASCRIPT to make this web-based browser game. I'll mainly be focusing on my JS to improve the functionality of my game so that it will run smoothly with no bumps.
 
 Tic-Tac-Toe is a fairly easy game based on your opponent of course but I will be trying to incoroporate and AI system in my game so that the player will have an opponent! 
-![Tic-Tac-Toe - Google Chrome 12_2_2023 1_23_26 PM](https://github.com/Kennyi00/Project_1/assets/144562122/26b3d2fe-810e-4cb1-8b75-8983f8f990ed)
