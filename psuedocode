@@ -1,0 +1,29 @@
+HTML:
+- Create a 3x3 grid using div elements to represent the Tic Tac Toe board.
+- Add click event listeners to each grid cell to handle player moves.
+
+
+
+CSS:
+- Style the grid and cells to make them visually appealing.
+
+
+// HTML
+// Create a 3x3 grid
+for each row from 1 to 3:
+  for each column from 1 to 3:
+    create a div element with id "cell-row-column"
+
+// CSS
+// Style the grid and cells
+
+// JavaScript
+// Initialize game state
+let currentPlayer = "X";
+let gameBoard = [
+  ["", "", ""],
+  ["", "", ""],
+  ["", "", ""]
+];
+
+
